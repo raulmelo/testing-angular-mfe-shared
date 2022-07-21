@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+## Step 1 
+use the Angular CLI to generate module-federation
+#### ng add -- CI for angular
+#### @angular-architects/module-federation -- install package from npm
+#### --project -- params project default or use name 
+#### port -- port specify port for server
+ng add @angular-architects/module-federation --project mfe-profile --port 4202
+
